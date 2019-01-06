@@ -1,4 +1,4 @@
-# Warifact ALPHA V0.0.1
+# Warifact ALPHA V0.0.1 (Not available for download.)
 Warifact is a 3D game in Java.
 
 Soon integration of Discord Rich Presence but I still have a bug to fix.
