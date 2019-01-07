@@ -1,5 +1,7 @@
 package fr.catsuri33.warifact.renderEngine;
 
+import club.minnced.discord.rpc.DiscordRPC;
+import fr.catsuri33.warifact.Discord.DiscordRPCInitializer;
 import org.lwjgl.LWJGLException;
 import org.lwjgl.opengl.*;
 
@@ -18,6 +20,7 @@ public class DisplayManager {
             Display.setDisplayMode(new DisplayMode(WIDTH, HEIGHT));
             Display.create(new PixelFormat(), attribs);
             Display.setTitle("Warifact");
+            DiscordRPCInitializer.discordRPC();
             System.out.println("[ Warifact ] Finished Loading !");
         } catch (LWJGLException e) {
             e.printStackTrace();
@@ -37,6 +40,7 @@ public class DisplayManager {
     public static void closeDisplay(){
 
         Display.destroy();
+        System.exit(0);
 
     }
 
