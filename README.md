@@ -1,11 +1,15 @@
- Warifact ALPHA V0.0.2 (Not available for download.)
+ Warifact
 =====================================================
 
-**Description**
+**Version ALPHA V0.0.2**
+
+
+##Description##
 
 Warifact is a 3D game in Java.
+Work in progress ! ;)
 
-**Update**
+##Update
 
 ```
 Update ALPHA V0.0.2
@@ -18,8 +22,12 @@ Update ALPHA V0.0.1
 - Creation of the project.
 ```
 
-**Authors**
+##Authors
 
 - Catsuri33 (Developer, Modeler)
 
-Work in progress !
+---
+
+##Copyright
+
+© Catsuri33, Insignic
