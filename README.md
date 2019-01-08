@@ -18,4 +18,8 @@ Update ALPHA V0.0.1
 - Creation of the project.
 ```
 
+**Authors**
+
+- Catsuri33 (Developer, Modeler)
+
 Work in progress !
