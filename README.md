@@ -31,4 +31,4 @@ Update ALPHA V0.0.1
 
 ## Copyright
 
-© Catsuri33, Insignic
+© Catsuri33, InsignicStudio, Insignic
